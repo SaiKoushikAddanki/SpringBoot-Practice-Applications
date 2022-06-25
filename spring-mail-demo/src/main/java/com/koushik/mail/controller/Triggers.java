@@ -21,5 +21,10 @@ public class Triggers {
 		return emailService.send(request);
 		
 	}
+	
+	@GetMapping("/welcome")
+	public String welcomeMessage() {
+		return "Welcome to the first practise application of public exposed spring boot application by ASK";
+	}
 
 }
