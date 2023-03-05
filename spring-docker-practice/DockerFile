@@ -1,0 +1,4 @@
+FROM openjdk:8
+EXPOSE 8080
+ADD /target/spring-docker-sample.jar spring-docker-sample.jar
+ENTRYPOINT ["java", "-jar", "/spring-docker-sample.jar"]
