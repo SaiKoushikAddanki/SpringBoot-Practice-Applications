@@ -171,3 +171,17 @@ latest: digest: sha256:b843367627b9460b0077a2779c236a78ef2944c073ce9be447a0e995e
 Saikoushik_Addanki@EPINHYDW07A3 MINGW64 /c/Programming/SpringBoot-Practice-Applications/spring-docker-practice (main)
 $
 
+
+Day-3:
+
+to get the mongo db image from docker hub we use the below command;
+
+docker pull mongo:latest
+
+to link 2 docker images we use the below command
+
+docker run -p 8080:8080 --name springboot-mongodb --link ask002mongodb:mongo -d springboot-mongodb:0.1
+
+
+
+
