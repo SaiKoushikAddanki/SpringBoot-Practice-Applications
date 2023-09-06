@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:18:55:14 +0530] "GET /springmvcpractice/ HTTP/1.1" 200 9644 http-bio-8080-exec-1 1467
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:18:55:14 +0530] "GET /springmvcpractice/css/style.css HTTP/1.1" 404 949 http-bio-8080-exec-3 33
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:18:55:15 +0530] "GET /springmvcpractice/images/employees/JessicaNewton.jpg HTTP/1.1" 404 949 http-bio-8080-exec-6 37
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:18:55:15 +0530] "GET /springmvcpractice/images/hpluslogo.svg HTTP/1.1" 404 949 http-bio-8080-exec-2 76
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:18:55:15 +0530] "GET /springmvcpractice/images/employees/MichaelLewiston.jpg HTTP/1.1" 404 949 http-bio-8080-exec-9 12
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:18:55:15 +0530] "GET /springmvcpractice/images/employees/PhiTang.jpg HTTP/1.1" 404 949 http-bio-8080-exec-5 56
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:18:55:15 +0530] "GET /springmvcpractice/images/employees/AngelaHaston.jpg HTTP/1.1" 404 949 http-bio-8080-exec-8 99
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:18:55:15 +0530] "GET /springmvcpractice/images/employees/HenryTwill.jpg HTTP/1.1" 404 949 http-bio-8080-exec-7 113
+0:0:0:0:0:0:0:1 - - [07/Jul/2023:18:55:15 +0530] "GET /springmvcpractice/images/employees/MariaSontas.jpg HTTP/1.1" 404 949 http-bio-8080-exec-4 121
